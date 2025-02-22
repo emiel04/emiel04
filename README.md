@@ -1,3 +1,5 @@
+[![GitHub Follow](https://img.shields.io/github/followers/emiel04?label=Follow&style=social)](https://github.com/emiel04)
+
 # 👋 Hey, I'm Emiel!
 👩🏻‍💻 Software engineer interested in learning various topics  
 👩🏻‍🎓 Studied Applied Computer Science at Howest  
